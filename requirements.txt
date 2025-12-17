@@ -2,7 +2,6 @@ pandas
 numpy
 scikit-learn
 imbalanced-learn
-xgboost
 catboost
 lightgbm
 mlflow
@@ -15,3 +14,4 @@ psycopg2-binary
 prefect
 python-dotenv
 loguru
+seaborn
