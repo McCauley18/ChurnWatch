@@ -782,4 +782,4 @@ elif page == "Data Management":
 st.markdown("---")
 footer_col1, footer_col2, footer_col3 = st.columns(3)
 with footer_col2:
-    st.caption("© 2024 Customer Churn Analytics Dashboard | v1.0.0")
+    st.caption("© 2025 Customer Churn Analytics Dashboard | v1.0.0")
